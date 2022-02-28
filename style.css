@@ -1,3 +1,24 @@
+/**** HEADER ****/
 .logo {
   width: 50px;
+}
+
+/**** SECTION BIO ****/
+
+#bio {
+  padding: 0 15rem 0 7rem;
+}
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+.featurette-heading {
+  font-weight: 100;
+  line-height: 1;
+}
+
+.lead {
+  margin-top: 15px;
+  font-size: medium;
+  text-align: justify;
 }
