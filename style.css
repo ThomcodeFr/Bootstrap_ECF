@@ -6,20 +6,6 @@
   width: 1rem;
 }
 
-
-#bio {
-  display: flex;
-}
-
-.bio-intern{
-  flex-direction: column;
-  margin-left: 20px;
-}
-
 .profil-picture {
   width: 7rem;
-}
-
-#bio p {
-  margin-left: 20px;
 }
